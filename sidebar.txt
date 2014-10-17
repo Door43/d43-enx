@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[enx:home|Door43 (enx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-enx|d43-enx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-enx/archive/master.zip|d43-enx.zip]]
+
+**Recent Changes**
+{{changes>ns = enx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/enx|Ethnologue data]]
+
